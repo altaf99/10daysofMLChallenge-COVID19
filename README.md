@@ -3,5 +3,4 @@
 
 
 Repository for 10 Days of ML, a TFUG Mumbai initiative. 
-Twitter HAndle TFUG : ![Twitter](https://twitter.com/tfugmumbai)
-My twitter handle: ![Twitter](https://twitter.com/AltafShaikh07)
+
